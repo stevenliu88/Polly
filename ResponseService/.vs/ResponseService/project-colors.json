@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74c577ed-8d3f-4f27-95de-ccb046883d74": {
+      "ProjectGuid": "74c577ed-8d3f-4f27-95de-ccb046883d74",
+      "DisplayName": "ResponseService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

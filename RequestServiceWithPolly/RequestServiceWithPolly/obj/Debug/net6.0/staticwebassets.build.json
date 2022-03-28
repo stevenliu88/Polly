@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3MY23W/msfU9BBdq+f4Os2gDj9Dffk1ccdvCJAgiKNk=",
+  "Source": "RequestServiceWithPolly",
+  "BasePath": "_content/RequestServiceWithPolly",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
